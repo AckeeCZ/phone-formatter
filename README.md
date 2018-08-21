@@ -1,4 +1,4 @@
-[ ![Download](https://api.bintray.com/packages/ackeecz/rxoauth2/rxoauth/images/download.svg) ](https://bintray.com/ackeecz/phoneformatter/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/ackeecz/phoneformatter/phoneformatter/images/download.svg) ](https://bintray.com/ackeecz/phoneformatter/_latestVersion)
 
 # Android phone Formatter library
 
@@ -7,7 +7,7 @@ This library is replacement for systems [PhoneNumberFormattingTextWatcher](https
 ### Purpose
 This library was written because in a lot of applications we have this kind of input for phone number
 
-![alt text](https://github.com/AckeeCZ/phone-formatter/raw/master/images/phone_input.png) "Phone input example")
+![alt text](https://github.com/AckeeCZ/phone-formatter/raw/master/images/phone_input.png)
 
 We have separated input (Spinner in this example) for phone prefix and separated input for the rest of the phone number.
 
