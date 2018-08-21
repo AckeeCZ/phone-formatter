@@ -17,6 +17,11 @@ That is the reason why our own modification of this Formatter was created. When 
 
 ### Usage
 
+Gradle dependency
+```groovy
+    implementation "cz.ackee:phoneformatter:x.x.x"
+```
+
 ```kotlin
     private val textFormatter = PhoneNumberFormatter(Locale.getDefault().country)
     ...

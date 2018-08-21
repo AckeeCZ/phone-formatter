@@ -1,7 +1,9 @@
-package cz.ackee.phoneformatter
+package cz.ackee.phoneformatter.sample
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import cz.ackee.phoneformatter.PhoneNumberFormatter
+import cz.ackee.phoneformatter.R
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.Locale
 

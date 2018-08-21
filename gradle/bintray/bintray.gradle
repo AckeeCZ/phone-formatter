@@ -29,6 +29,10 @@ artifacts {
     archives sourcesJar
 }
 
+// disable javadoc, fails on kotlin files
+tasks.withType(Javadoc).all {
+    enabled = false
+}
 
 // Bintray
 Properties properties = new Properties()
