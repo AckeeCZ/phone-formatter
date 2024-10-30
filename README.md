@@ -1,3 +1,6 @@
+# DEPRECATED
+This library is no longer maintained and this repository is archived.
+
 [ ![Download](https://api.bintray.com/packages/ackeecz/phoneformatter/phoneformatter/images/download.svg) ](https://bintray.com/ackeecz/phoneformatter/_latestVersion)
 
 # Android phone Formatter library
