@@ -10,8 +10,6 @@ This library is replacement for systems [PhoneNumberFormattingTextWatcher](https
 ### Purpose
 This library was written because in a lot of applications we have this kind of input for phone number
 
-![alt text](https://github.com/AckeeCZ/phone-formatter/raw/master/images/phone_input.png)
-
 We have separated input (Spinner in this example) for phone prefix and separated input for the rest of the phone number.
 
 If we initialize PhoneNumberFormattingTextWatcher without specifying country code, it will be formatted by system's locale country. That is not right because for example if I have phone in English (US) and I choose Czech phone prefix +420, the number is still formatted by US rules. It should be formatted according to Czech rules instead.
